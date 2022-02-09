@@ -1,3 +1,18 @@
 body{
     background:green;
 }
+div{
+    background: blue;
+}
+
+#contenedor2{
+    background: pink;
+}
+
+.contenedor3{
+    background: yellow;
+}
+
+[data-type='liquid']{
+    background: brown;
+}
